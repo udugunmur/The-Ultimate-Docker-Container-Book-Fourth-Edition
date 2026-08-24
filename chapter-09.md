@@ -237,3 +237,4 @@ En este capítulo aprendimos:
 
 10. **Consideraciones de Logging**:  
     Permite reconstruir flujos de ejecución y diagnosticar fallos en sistemas donde no es posible depurar interactivamente. Sin embargo, el volumen masivo de logs genera costes elevados de red y almacenamiento en la nube, requiriendo un balance adecuado de granularidad y la exclusión estricta de datos personales (PII), de salud (PHI) o financieros (SFI).
+

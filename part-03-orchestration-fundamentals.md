@@ -26,3 +26,4 @@ Al finalizar esta parte, no solo sabrás cómo se ejecutan los contenedores, sin
 
 - **[Capítulo 14: Introducción a la orquestación de contenedores](https://subscription.packtpub.com/book/cloud-and-networking/9781805804390/14)**  
   Conceptos clave, modelos de reconciliación de estado y fundamentos de plataformas de orquestación modernas.
+

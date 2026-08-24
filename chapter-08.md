@@ -494,3 +494,4 @@ En este capítulo aprendimos:
    - **Aislamiento**: No interfieren con librerías o dependencias del host.
    - **Portabilidad y consistencia**: Se ejecutan idénticamente en cualquier sistema operativo que soporte Docker (macOS, Linux, Windows).
    - **Versionado y limpieza**: Permite ejecutar versiones antiguas o específicas de intérpretes (Perl, Python, Node.js) sin ensuciar el host, eliminándose por completo al finalizar con `--rm`.
+

@@ -633,3 +633,4 @@ En este capítulo aprendimos:
 
 10. **Conexión con el Capítulo 20**:  
     Proporciona la comprensión técnica de cómo la contenerización, la observabilidad y la automatización inteligente se integran para resolver los retos reales de escalabilidad y fiabilidad analizados en los casos de estudio finales.
+

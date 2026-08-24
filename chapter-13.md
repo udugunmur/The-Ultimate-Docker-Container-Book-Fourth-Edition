@@ -545,3 +545,4 @@ En este capítulo aprendimos:
 
 7. **Mitigación temporal ante fallos en CI**:  
    Aplicar una excepción documentada y temporal en la lista de exclusión (*allow-list*) con fecha de caducidad estricta tras evaluar el riesgo real de explotación; aislar la red del contenedor para mitigar vectores de entrada; y priorizar de inmediato la actualización y reconstrucción del paquete afectado para eliminar la excepción lo antes posible.
+

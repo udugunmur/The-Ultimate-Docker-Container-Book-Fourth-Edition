@@ -293,3 +293,4 @@ Responde a las siguientes preguntas para evaluar tu progreso de aprendizaje:
    - **Modo Docker Rootless**: Ejecución sin privilegios de root para reducir la superficie de ataque.
    - **Adopción de cgroups v2**: Mayor precisión y aislamiento en entornos multitenant.
    - **Firma de imágenes (Cosign / Notary v2) y SBOM (Syft / CycloneDX)**: Garantía criptográfica y trazabilidad completa frente a ataques en la cadena de suministro de software.
+

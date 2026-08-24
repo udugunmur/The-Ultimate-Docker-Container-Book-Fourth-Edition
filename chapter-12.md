@@ -864,3 +864,4 @@ En este capítulo aprendimos:
 
 12. **Conclusión principal**:  
     Obtener visibilidad completa a través de logs centralizados y métricas en tiempo real constituye el prerrequisito indispensable para asegurar, diagnosticar y operar contenedores en producción.
+

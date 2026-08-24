@@ -1295,3 +1295,4 @@ En este capítulo aprendimos:
 
 10. **Preparación operativa continua**:  
     Los sistemas evolucionan; realizar pruebas de fallos y revisiones periódicas post-incidente garantiza que los umbrales de alerta sigan siendo relevantes, evitando la fatiga de alertas y asegurando que las notificaciones lleguen al personal de guardia adecuado con guías actualizadas.
+

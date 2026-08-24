@@ -541,3 +541,4 @@ En este capítulo analizamos:
 
 9. **Ejemplo de aceleración en caso real**:  
    Un equipo de comercio electrónico migró su suite completa de regresión a contenedores paralelizados por rama, reduciendo el tiempo de ejecución de varios días a menos de una hora y permitiendo despliegues diarios a producción.
+

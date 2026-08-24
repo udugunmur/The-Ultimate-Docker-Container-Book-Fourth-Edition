@@ -637,3 +637,4 @@ En este capítulo aprendimos a:
    docker container run -d --name my_container my_image
    ```
    Se utiliza para ejecutar contenedores como servicios en segundo plano (como servidores web o bases de datos) sin bloquear la sesión de la terminal.
+

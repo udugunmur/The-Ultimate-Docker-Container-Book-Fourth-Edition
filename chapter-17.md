@@ -615,3 +615,4 @@ En este capítulo aprendimos:
 
 11. **Cambio de enfoque post-despliegue**:  
     La prioridad se traslada desde la entrega hacia la **observabilidad y fiabilidad operativa**: monitorización proactiva de métricas, agregación de logs, alertas tempranas y resolución de incidentes en tiempo real.
+

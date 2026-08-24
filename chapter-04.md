@@ -615,3 +615,4 @@ En este capítulo analizamos:
 
 11. **La respuesta correcta es C**:  
     Primero se inicia sesión en el registro (`docker login`), luego se etiqueta la imagen con el espacio de nombres de usuario (`docker image tag foo:1.0 jdoe/foo:1.0`) y finalmente se sube al registro (`docker image push jdoe/foo:1.0`).
+

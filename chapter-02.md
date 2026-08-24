@@ -670,3 +670,4 @@ En el próximo capítulo, comenzaremos a explorar los comandos fundamentales de 
    - **Podman**:
      - *Pros*: Sin demonio en segundo plano (*daemonless*), soporte nativo para ejecución sin root (*rootless*), bajo consumo de recursos y alta compatibilidad con comandos de Docker.
      - *Contras*: Interfaz gráfica menos desarrollada y configuración adicional requerida en macOS y Windows mediante máquinas virtuales.
+

@@ -905,3 +905,4 @@ En este capítulo aprendimos:
 
 10. **Actualización de Secrets en caliente**:  
     Kubernetes no reinicia automáticamente los Pods cuando cambia un Secret o ConfigMap. Se debe desencadenar un reinicio controlado con `kubectl rollout restart deploy/<nombre>` o utilizar anotaciones con *hash/checksum* en la plantilla del Pod.
+

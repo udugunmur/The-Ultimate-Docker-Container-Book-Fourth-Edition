@@ -537,3 +537,4 @@ En este capítulo analizamos:
    - **Enrutamiento por Capa 7**: Dirige peticiones según nombres de host y rutas URL hacia diferentes microservicios internos.  
    - **Terminación SSL/TLS**: Gestiona certificados y cifrado HTTPS de forma centralizada.  
    - **Seguridad**: Ofrece un punto único de entrada controlado, manteniendo los contenedores de aplicación en redes internas privadas sin publicar sus puertos directamente en el host.
+
