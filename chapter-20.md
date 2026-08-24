@@ -499,4 +499,3 @@ Tu viaje de aprendizaje no termina aquí. Las siguientes direcciones te permitir
 > *¡Que tus clústeres se mantengan saludables, tus compilaciones sean siempre reproducibles y tus despliegues transcurran sin incidentes!*
 >
 > — **Gabriel N. Schenker**
-
